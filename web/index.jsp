@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-		<title>Chill Technologies Inc.</title>
+		<title>Chill Outlets</title>
                 <link rel="shortcut icon" type="image/png" href="images/chilli.jpg"/>
                 <meta charset="utf-8" /> 
                 <meta name="keywords" content="Chillonline, chill online, courses, course management system, online courses, job boards, job postings, videos, movies, music, TV shows, TV series, TV channels, radio channels, games" />
@@ -19,23 +19,34 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 	</head>
+        
+        <script type="text/javascript">
+            
+            
+            
+        </script>
+        
 	<body class="landing">
 		<div id="page-wrapper">
 
 			<!-- Header -->
 				<header id="header" class="alt">
-                                        <img src="images/chilli-white.png" style="width: 40px;margin-left: 40px;" />
+                                    <h1 style="margin-left:20px;">CHILL OUTLETS</h1><img src="images/chilli-white.png" style="width: 40px;margin-left: 2px;" />
 					<nav id="nav">
 						<ul>
-							<li><a href="index.html">Order</a></li>
 							<li>
-								<a href="#" class="icon fa-angle-down">Packages</a>
+								<a href="#" class="icon fa-angle-down">Exotic</a>
 								<ul>
-									<li><a href="generic.html">Chilli Fiber TV</a></li>
-									<li><a href="contact.html">Contact</a></li>
-									<li><a href="elements.html">Elements</a></li>
+									<li><a href="contact.html">Movies</a></li>
+									<li><a href="contact.html">TV Shows</a></li>
+									<li><a href="contact.html">Music</a></li>
+									<li><a href="contact.html">Videos</a></li>
+									<li><a href="contact.html">Games</a></li>
+									<li><a href="elements.html">Food</a></li>
+									<li><a href="contact.html">Wear</a></li>
+									<li><a href="contact.html">Shopping</a></li>
 									<li>
-										<a href="#">Submenu</a>
+										<a href="#">Applications</a>
 										<ul>
 											<li><a href="#">Option One</a></li>
 											<li><a href="#">Option Two</a></li>
@@ -45,7 +56,116 @@
 									</li>
 								</ul>
 							</li>
-							<li><a href="#" class="button">BECOME A DEALER, GET $500</a></li>
+                                                        <li>
+								<a href="#" class="icon fa-angle-down">Desirable</a>
+								<ul>
+									<li><a href="contact.html">Movies</a></li>
+									<li><a href="contact.html">TV Shows</a></li>
+									<li><a href="contact.html">Music</a></li>
+									<li><a href="contact.html">Videos</a></li>
+									<li><a href="contact.html">Games</a></li>
+									<li><a href="elements.html">Food</a></li>
+									<li><a href="contact.html">Wear</a></li>
+									<li><a href="contact.html">Shopping</a></li>
+									<li>
+										<a href="#">Applications</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+                                                        <li>
+								<a href="#" class="icon fa-angle-down">Luxurious</a>
+								<ul>
+									<li><a href="contact.html">Movies</a></li>
+									<li><a href="contact.html">TV Shows</a></li>
+									<li><a href="contact.html">Music</a></li>
+									<li><a href="contact.html">Videos</a></li>
+									<li><a href="contact.html">Games</a></li>
+									<li><a href="elements.html">Food</a></li>
+									<li><a href="contact.html">Wear</a></li>
+									<li><a href="contact.html">Shopping</a></li>
+									<li>
+										<a href="#">Applications</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+                                                        <li>
+								<a href="#" class="icon fa-angle-down">Mind-blowing</a>
+								<ul>
+									<li><a href="contact.html">Movies</a></li>
+									<li><a href="contact.html">TV Shows</a></li>
+									<li><a href="contact.html">Music</a></li>
+									<li><a href="contact.html">Videos</a></li>
+									<li><a href="contact.html">Games</a></li>
+									<li><a href="elements.html">Food</a></li>
+									<li><a href="contact.html">Wear</a></li>
+									<li><a href="contact.html">Shopping</a></li>
+									<li>
+										<a href="#">Applications</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li><li>
+								<a href="#" class="icon fa-angle-down">Ecstatic</a>
+								<ul>
+									<li><a href="contact.html">Movies</a></li>
+									<li><a href="contact.html">TV Shows</a></li>
+									<li><a href="contact.html">Music</a></li>
+									<li><a href="contact.html">Videos</a></li>
+									<li><a href="contact.html">Games</a></li>
+									<li><a href="elements.html">Food</a></li>
+									<li><a href="contact.html">Wear</a></li>
+									<li><a href="contact.html">Shopping</a></li>
+									<li>
+										<a href="#">Applications</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+							</li>
+							<li>
+                                                            <a href="index.jsp" class="icon fa-angle-down">Stylish</a>
+								<ul>
+									<li><a href="contact.html">Movies</a></li>
+									<li><a href="contact.html">TV Shows</a></li>
+									<li><a href="contact.html">Music</a></li>
+									<li><a href="contact.html">Videos</a></li>
+									<li><a href="contact.html">Games</a></li>
+									<li><a href="elements.html">Food</a></li>
+									<li><a href="contact.html">Wear</a></li>
+									<li><a href="contact.html">Shopping</a></li>
+									<li>
+										<a href="#">Applications</a>
+										<ul>
+											<li><a href="#">Option One</a></li>
+											<li><a href="#">Option Two</a></li>
+											<li><a href="#">Option Three</a></li>
+											<li><a href="#">Option Four</a></li>
+										</ul>
+									</li>
+								</ul>
+                                                        </li>
+							<li><a href="#" class="button">BECOME AN ONLINE MERCHANT, GET USD$300</a></li>
 							<li><a href="#" class="button">Log In</a></li>
 						</ul>
 					</nav>
@@ -53,14 +173,43 @@
 
 			<!-- Banner -->
 				<section id="banner">
-					<h2>G Tower - TV Set-top Box</h2>
-					<p>Order unlimited Google Play entertainment for your home, in new family-friendly TV hardware, for a one-time fee.</p>
+					<h2>Your creative outlet.</h2>
+					<p>Find the coolest products scouted from everywhere offline or online, by hobby, for the cheapest price.</p>
 					<ul class="actions">
                                             <li>
-                                                <input type="email" name="email" id="email" style="color: #000;width: 400px" placeholder="Google email address" />
-							</li>
-					<!--	<li><a href="#" class="button special">Order</a></li> -->
-						<li><a href="#" class="button">Choose device apps</a></li>
+                                                
+                                               <!-- <input type="email" name="email" id="email" style="color: #000;width: 400px" placeholder="Get started with a category" /> -->
+                                               <div class="row uniform 50%">
+                                               <div class="12u">
+                                                   <div class="select-wrapper">
+                                                       <select name="category" id="line" style="color:#000;width:500px;">
+                                                           <option value="">-- Choose a creative outlet to explore --</option>
+                                                           <option value="jeans">Painting</option>
+                                                           <option value="jeans">Technology</option>
+                                                           <option value="jeans">Film</option>
+                                                           <option value="jeans">Gym</option>
+                                                           <option value="jeans">Sports</option>
+                                                           <option value="jeans">Fashion</option>
+                                                           <option value="jeans">Cars</option>
+                                                           <option value="jeans">Publishing</option>
+                                                           <option value="jeans">Gaming</option>
+                                                           <option value="jeans">Textiles</option>
+                                                           <option value="jeans">Animation</option>
+                                                           <option value="jeans">Art</option>
+                                                           <option value="jeans">Home/Interior Decoration</option>
+                                                           <option value="jeans">Engineering</option>
+                                                           <option value="jeans">Music</option>
+                                                           <option value="jeans">Real Estate</option>
+                                                           <option value="jeans">Electronic Design</option>
+                                                           <option value="jeans">Architecture</option>
+                                                       </select>
+                                                   </div>
+                                               </div>
+                                               </div>
+                                                
+                                            </li>
+                                            <!--	<li><a href="#" class="button special">Order</a></li> -->
+                                            <li><a hidden href="products.jsp" class="button">Find products</a></li>
 					</ul>
                                         
 				</section>
@@ -70,148 +219,53 @@
 
 					<section class="box special">
 						<header class="major">
-							<h2>The ultimate flat screen TV hardware for Google Play.
+							<h2>Introducing you to the coolest collectibles in your industry.
 							<br />
-							Ships in 6 - 8 weeks.</h2>
-							<p>An overloaded entertainment computer remodel, operating with Google's 
-Android.<br />
-							 A more powerful alternative to TV dongles and Android TV boxes.</p>
+                                                        Use merchant vouchers for 50% off.</h2>
+							<p>By talking to other hobbyists like you, you can make more infrmed decisions about the products you 
+                                                            are buying. Membership also grants you access to 24/7 sexiness and hot deals only provided through vouchers.
+                                                        </p>
 						</header>
-						<span class="image featured"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image featured"><img src="images/pic001.jpg" alt="" /></span>
 					</section>
 
+                                    <!--
 					<section class="box special features">
 						<div class="features-row">
 							<section>
 								<span class="icon major fa-bolt accent2"></span>
-								<h3>Connect to HDTV wirelessly</h3>
+								<h3>Feel electric</h3>
 								<p>With our Iogear wireless HDMI receiver, you can 
 seamlessly connect any HDMI cable to the receiver and the HDTV. Then, move the AXiS Pilot to anywhere in the house.</p>
 							</section>
 							<section>
 								<span class="icon major fa-area-chart accent3"></span>
-								<h3>2TB of entertainment usage</h3>
-								<p>Integer volutpat ante et accumsan commophasellus sed aliquam 
-feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
+								<h3>Measure the cool</h3>
+								<p>We use in-house generated ratios and algorithms to filter and sort all kinds of
+                                                                    products by coolness.</p>
 							</section>
 						</div>
 						<div class="features-row">
 							<section>
 								<span class="icon major fa-cloud accent4"></span>
-								<h3>Cloud media interoperability</h3>
+								<h3>Collect hobbies on the cloud</h3>
 								<p>Maintain your device online by selecting which applications you 
 would like to update, install, or delete. You also receive emails informing you of new compatibility updates.</p>
 							</section>
 							<section>
 								<span class="icon major fa-lock accent5"></span>
-								<h3>Secure entertainment</h3>
+								<h3>Engage private communities</h3>
 								<p>Integer volutpat ante et accumsan commophasellus sed aliquam 
 feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros.</p>
 							</section>
 						</div>
 					</section>
-
-					<div class="row">
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/pic02.jpg" alt="" 
-/></span>
-								<h3>AXiS Pilot Red Army Basic Plan</h3>
-								<p>We have used the most basic parts of a computer system to 
-assemble the cheapest solution for your home's Google Play experience. All you need is a one-time investment.<br><br><br>
-Includes:<br><ul>
-<li>Basic computer parts including motherboard, CPU, PSU, RAM, and 1TB hard drive.</li>
-<li>14 sound speakers.</li>
-<li>1 bass sound receiver.</li>
-<li>2 full-range sound receivers.</li>
-<li>Wi-Fi USB stick.</li>
-<li>Wireless HDMI TV receiver.</li>
-<li>Wireless keyboard and touchpad controller.</li>
-</ul>
-</p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">USD$1,699</a></li>
-								</ul>
-							</section>
-
-						</div>
-						<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/pic03.jpg" alt="" 
-/></span>
-								<h3>AXiS Pilot Red Army Standard Plan</h3>
-								<p>We have optimized the parts of a computer system to assemble the 
-safest solution for your home's Google Play experience. All you need is a one-time investment.<br><br><br>
-Includes:<br><ul>
-<li>Standard computer parts including motherboard, CPU, PSU, RAM, and 2TB Seagate Barracuda hard drive.</li>
-<li>14 sound speakers.</li>
-<li>1 bass sound receiver.</li>
-<li>2 full-range sound receivers.</li>
-<li>Wi-Fi USB stick.</li>
-<li>Wireless HDMI TV receiver.</li>
-<li>Wireless keyboard and touchpad controller.</li>
-</ul></p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">USD$2,499</a></li>
-								</ul>
-							</section>
-
-						</div>
-<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/pic02.jpg" alt="" 
-/></span>
-								<h3>AXiS Pilot Red Army Plus Plan</h3>
-								<p>We have used higher-grade parts of a computer system to assemble 
-the cheapest solution for your home's Google Play experience. All you need is a one-time investment.<br><br><br>
-Includes:<br><ul>
-<li>Higher-grade computer parts including motherboard, CPU, RAM, and 2TB Seagate Barracuda hard drive.</li>
-<li>1 graphics card.</li>
-<li>14 sound speakers.</li>
-<li>1 bass sound receiver.</li>
-<li>2 full-range sound receivers.</li>
-<li>Wi-Fi USB stick.</li>
-<li>Wireless HDMI TV receiver.</li>
-<li>Wireless keyboard and touchpad controller.</li>
-</ul></p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">USD$2,999</a></li>
-								</ul>
-							</section>
-
-						</div>
-<div class="6u 12u(narrower)">
-
-							<section class="box special">
-								<span class="image featured"><img src="images/pic02.jpg" alt="" 
-/></span>
-								<h3>AXiS Pilot Red Army Premium Plan</h3>
-								<p>We have used premium parts of a computer system to assemble the 
-cheapest solution for your home's Google Play experience. All you need is a one-time investment.<br><br><br>
-Includes:<br><ul>
-<li>Premium computer parts including motherboard, CPU, Corsair AXi PSU, RAM, and 2TB Seagate Barracuda hard drive.</li>
-<li>1 graphics card.</li>
-<li>14 sound speakers.</li>
-<li>1 bass sound receiver.</li>
-<li>2 full-range sound receivers.</li>
-<li>Wi-Fi USB stick.</li>
-<li>Wireless HDMI TV receiver.</li>
-<li>Wireless keyboard and touchpad controller.</li>
-</ul></p>
-								<ul class="actions">
-									<li><a href="#" class="button alt">USD$3,999</a></li>
-								</ul>
-							</section>
-
-						</div>
-					</div>
+                                    
+                                    -->
 
 				</section>
 
-			<!-- CTA -->
+			<!-- 
 				<section id="cta">
 
 					<h2>Get started with your Google email address</h2>
@@ -232,7 +286,8 @@ Email Address" />
 
 				</section>
 
-			<!-- Footer -->
+			-->
+                        
 				<footer id="footer">
 					<ul class="icons">
 						<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -248,10 +303,12 @@ class="label">Dribbble</span></a></li>
 					</ul>
 					<ul class="copyright">
 						<li>&copy; Chill Technologies Inc. All rights reserved.</li>
-						<li>Made in Winnipeg, Manitoba, Canada.</li>
+						<li>Made in Canada.</li>
 					</ul>
 				</footer>
 
+   
+   
 		</div>
 
 		<!-- Scripts -->
