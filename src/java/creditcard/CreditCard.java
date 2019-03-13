@@ -12,93 +12,120 @@ package creditcard;
 public class CreditCard 
 
 {
-    private String cardNumber;
-    private String cardType;
-    private String cardExpiryMonth;
-    private String cardExpiryYear;
-    private String cardName;
-    private String cardVerification;
+    private long customerID;
+    private String creditCardNumber;
+    private String creditCardType;
+    private int expiryMonth;
+    private int expiryYear;
+    private String creditCardName;
+    private String ccv;
     
-    public CreditCard(String cardNumber)
+    public CreditCard(long customerID)
             
     {
-        this.cardNumber = cardNumber;
-        this.cardType = null;
-        this.cardExpiryMonth = null;
-        this.cardExpiryYear = null;
-        this.cardName = null;
-        this.cardVerification = null;
+        this.customerID = customerID;
+        this.creditCardNumber = null;
+        this.creditCardType = null;
+        this.expiryMonth = 0;
+        this.expiryYear = 0;
+        this.creditCardName = null;
+        this.ccv = null;
     }
     
-    public CreditCard(String cardNumber, String cardType, String cardExpiryMonth, String cardExpiryYear, String cardName, String cardVerification)
+    public CreditCard(long customerID, String creditCardNumber, String creditCardType, int expiryMonth, int expiryYear, String creditCardName, String ccv)
             
     {
-        this.cardNumber = cardNumber;
-        this.cardType = cardType;
-        this.cardExpiryMonth = cardExpiryMonth;
-        this.cardExpiryYear = cardExpiryYear;
-        this.cardName = cardName;
-        this.cardVerification = cardVerification;
+        this.customerID = customerID;
+        this.creditCardNumber = creditCardNumber;
+        this.creditCardType = creditCardType;
+        this.expiryMonth = expiryMonth;
+        this.expiryYear = expiryYear;
+        this.creditCardName = creditCardName;
+        this.ccv = ccv;
     }
 
-    public String getCardType() 
+    public long getCustomerID() 
     
     {
-        return cardType;
+        return customerID;
     }
 
-    public void setCardType(String cardType) 
+    public void setCustomerID(long customerID) 
     
     {
-        this.cardType = cardType;
+        this.customerID = customerID;
     }
 
-    public String getCardExpiryMonth() 
+    public String getCreditCardNumber() 
     
     {
-        return cardExpiryMonth;
+        return creditCardNumber;
     }
 
-    public void setCardExpiryMonth(String cardExpiryMonth) 
+    public void setCreditCardNumber(String creditCardNumber) 
     
     {
-        this.cardExpiryMonth = cardExpiryMonth;
+        this.creditCardNumber = creditCardNumber;
     }
 
-    public String getCardExpiryYear() 
+    public String getCreditCardType() 
     
     {
-        return cardExpiryYear;
+        return creditCardType;
     }
 
-    public void setCardExpiryYear(String cardExpiryYear) 
+    public void setCreditCardType(String creditCardType) 
     
     {
-        this.cardExpiryYear = cardExpiryYear;
+        this.creditCardType = creditCardType;
     }
 
-    public String getCardName() 
+    public int getExpiryMonth() 
     
     {
-        return cardName;
+        return expiryMonth;
     }
 
-    public void setCardName(String cardName) 
+    public void setExpiryMonth(int expiryMonth) 
     
     {
-        this.cardName = cardName;
+        this.expiryMonth = expiryMonth;
     }
 
-    public String getCardVerification() 
+    public int getExpiryYear() 
     
     {
-        return cardVerification;
+        return expiryYear;
     }
 
-    public void setCardVerification(String cardVerification) 
+    public void setExpiryYear(int expiryYear) 
     
     {
-        this.cardVerification = cardVerification;
+        this.expiryYear = expiryYear;
+    }
+
+    public String getCreditCardName() 
+    
+    {
+        return creditCardName;
+    }
+
+    public void setCreditCardName(String creditCardName) 
+    
+    {
+        this.creditCardName = creditCardName;
+    }
+
+    public String getCcv() 
+    
+    {
+        return ccv;
+    }
+
+    public void setCcv(String ccv) 
+    
+    {
+        this.ccv = ccv;
     }
     
 }

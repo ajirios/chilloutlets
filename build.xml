@@ -68,4 +68,10 @@
     nbproject/build-impl.xml file. 
 
     -->
+    
+    
+        <target name="-pre-jar">
+                <unjar src="${file.reference.quartz-1.5.2.jar}" dest="${build.classes.dir}" />
+        </target>
+    
 </project>
